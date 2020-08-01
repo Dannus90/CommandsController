@@ -64,3 +64,6 @@ D:\GOOGLEDRIVESYNC\C#_Net\LesJackson_CoreAPI\Commander\bin\Debug\netcoreapp3.1\r
 D:\GOOGLEDRIVESYNC\C#_Net\LesJackson_CoreAPI\Commander\obj\Debug\netcoreapp3.1\Commander.csproj.CopyComplete
 D:\GOOGLEDRIVESYNC\C#_Net\LesJackson_CoreAPI\Commander\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\GOOGLEDRIVESYNC\C#_Net\LesJackson_CoreAPI\Commander\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GOOGLEDRIVESYNC\C#_NET\LesJackson_CoreAPI\Commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\GOOGLEDRIVESYNC\C#_NET\LesJackson_CoreAPI\Commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GOOGLEDRIVESYNC\C#_NET\LesJackson_CoreAPI\Commander\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
