@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GOOGLEDRIVESYNC\\C#_Net\\LesJackson_CoreAPI\\Commander\\Commander.csproj": {}
+    "D:\\GOOGLEDRIVESYNC\\C#_NET\\LesJackson_CoreAPI\\Commander\\Commander.csproj": {}
   },
   "projects": {
-    "D:\\GOOGLEDRIVESYNC\\C#_Net\\LesJackson_CoreAPI\\Commander\\Commander.csproj": {
+    "D:\\GOOGLEDRIVESYNC\\C#_NET\\LesJackson_CoreAPI\\Commander\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GOOGLEDRIVESYNC\\C#_Net\\LesJackson_CoreAPI\\Commander\\Commander.csproj",
+        "projectUniqueName": "D:\\GOOGLEDRIVESYNC\\C#_NET\\LesJackson_CoreAPI\\Commander\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "D:\\GOOGLEDRIVESYNC\\C#_Net\\LesJackson_CoreAPI\\Commander\\Commander.csproj",
+        "projectPath": "D:\\GOOGLEDRIVESYNC\\C#_NET\\LesJackson_CoreAPI\\Commander\\Commander.csproj",
         "packagesPath": "C:\\Users\\perss\\.nuget\\packages\\",
-        "outputPath": "D:\\GOOGLEDRIVESYNC\\C#_Net\\LesJackson_CoreAPI\\Commander\\obj\\",
+        "outputPath": "D:\\GOOGLEDRIVESYNC\\C#_NET\\LesJackson_CoreAPI\\Commander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\perss\\AppData\\Roaming\\NuGet\\NuGet.Config",

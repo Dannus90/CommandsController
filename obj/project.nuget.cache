@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c+m4ZCeXa/3MC9TX6SlzKVTft3C2iQ5PZqzaCcZT47vSQOTTbz3CRcqSKRRdSNsi2tJxtOqBgaubDpsx25XvMw==",
+  "dgSpecHash": "qsE4n8i/CvAqt20dnnijRQXl3bQYC331ry1iMHHTPSp5hgJU3S3RSbu0prra576r/NQdkPBEBFml3v092uy+pQ==",
   "success": true,
-  "projectFilePath": "D:\\GOOGLEDRIVESYNC\\C#_Net\\LesJackson_CoreAPI\\Commander\\Commander.csproj",
+  "projectFilePath": "D:\\GOOGLEDRIVESYNC\\C#_NET\\LesJackson_CoreAPI\\Commander\\Commander.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\perss\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\perss\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
